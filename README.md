@@ -285,7 +285,6 @@ Open the included Power BI file and refresh the data source.
 **Ankit Dubey**
 
 - GitHub: https://github.com/Ankit-Dubey10
-- LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
